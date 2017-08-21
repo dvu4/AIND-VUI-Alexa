@@ -1,0 +1,30 @@
+GetNewFactIntent a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me something
+GetNewFactIntent give me some information
+GetNewFactIntent tell me something
+GetNewFactIntent tell me some AI facts
+GetNewFactIntent tell me a random AI fact
+GetNewFactIntent please tell me some AI facts
+GetNewFactIntent please give me some AI information
+GetNewFactIntent please tell me some random AI facts
+GetNewFactIntent please give me some random AI facts
+GetNewFactIntent what do you know about AI ?
+GetNewFactIntent AI fact
+GetNewFactIntent give me an AI fact
+GetNewFactIntent tell me an AI fact
+
+GetNewFactIntent tell me an eclipse trivia
+GetNewFactIntent tell me a total eclipse fact
+GetNewFactIntent tell me a total eclipse trivia
+GetNewFactIntent an eclipse fact
+GetNewFactIntent a total eclipse fact
+GetNewFactIntent when is the next eclipse in USA?
+GetNewFactIntent when will the total eclipse happen today?
+GetNewFactIntent when will the eclipse happen in 2017?
+GetNewFactIntent what cities are in the path?
+GetNewFactIntent what cities are close to the eclipse?
+GetNewFactIntent what time will the eclipse happen in west coast?
+GetNewFactIntent what time will the eclipse happen in midwest?
+GetNewFactIntent what time will the eclipse happen in east coast?
