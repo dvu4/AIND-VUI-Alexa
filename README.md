@@ -64,3 +64,5 @@ The project consists of three parts:
 3. Add conversational elements
 
 Follow the instructions for each part as described in the classroom under "Tasks" for the project.  Once all the unit tests pass, follow the submission instructions to submit your project for review!
+
+![udacity_submit](skill_simulator.png)
